@@ -1851,7 +1851,7 @@ msgid "Aggregate Chart"
 msgstr ""
 
 #. js-lingui-id: jsQZMk
-#: src/modules/navigation/components/MainNavigationDrawerModeSwitcher.tsx
+#: src/modules/navigation/hooks/useNavigationDrawerModes.ts
 #: src/modules/settings/admin-panel/hooks/useSettingsAdminTabs.ts
 #: src/modules/settings/hooks/useSettingsNavigationItems.tsx
 #: src/modules/settings/roles/role-permissions/object-level-permissions/object-form/components/SettingsRolePermissionsObjectLevelObjectForm.tsx
@@ -10043,8 +10043,8 @@ msgid "Hire a partner to help you implement and customize Twenty."
 msgstr "Angajați un partener care să vă ajute să implementați și să personalizați Twenty."
 
 #. js-lingui-id: i0qMbr
-#: src/modules/navigation/components/MainNavigationDrawerModeSwitcher.tsx
 #: src/modules/navigation/hooks/useMobileNavigationBarItems.ts
+#: src/modules/navigation/hooks/useNavigationDrawerModes.ts
 msgid "Home"
 msgstr "Acasă"
 
@@ -17828,7 +17828,7 @@ msgid "Setting up your <0>database</0>..."
 msgstr "Se configurează <0>baza ta de date</0>..."
 
 #. js-lingui-id: Tz0i8g
-#: src/modules/navigation/components/MainNavigationDrawerModeSwitcher.tsx
+#: src/modules/navigation/hooks/useNavigationDrawerModes.ts
 #: src/modules/object-record/record-merge/hooks/useMergeRecordsContainerTabs.ts
 #: src/modules/settings/accounts/components/SettingsAccountsSettingsSection.tsx
 #: src/modules/settings/mcp-and-apis/utils/buildMcpSetupCategories.tsx
@@ -17838,6 +17838,7 @@ msgstr "Se configurează <0>baza ta de date</0>..."
 #: src/modules/settings/roles/role-permissions/permission-flags/components/SettingsRolePermissionsSettingsSection.tsx
 #: src/modules/settings/roles/role/components/SettingsRole.tsx
 #: src/modules/side-panel/pages/page-layout/components/dashboard/SidePanelDashboardRecordTableSettings.tsx
+#: src/modules/ui/navigation/navigation-drawer/components/MultiWorkspaceDropdown/internal/MultiWorkspaceDropdownDefaultComponents.tsx
 #: src/pages/settings/ai/SettingsAgentForm.tsx
 #: src/pages/settings/applications/SettingsApplicationDetails.tsx
 #: src/pages/settings/applications/SettingsApplicationFrontComponentDetail.tsx

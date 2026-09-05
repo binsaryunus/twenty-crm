@@ -4208,6 +4208,11 @@ msgstr "File not found in SDK client archive."
 msgid "File not found."
 msgstr "File not found."
 
+#. js-lingui-id: eAFKw+
+#: src/engine/core-modules/file/file-upload/services/file-upload-completion.service.ts
+msgid "File storage did not confirm the processed file. Please retry."
+msgstr "File storage did not confirm the processed file. Please retry."
+
 #. js-lingui-id: MtzD8b
 #: src/engine/core-modules/file/file-upload/services/file-upload.service.ts
 msgid "File storage took too long to respond. Please retry."
@@ -10080,6 +10085,11 @@ msgstr "The field configured for this widget could not be found."
 msgid "The field you are trying to set permissions for could not be found. It may have been deleted."
 msgstr "The field you are trying to set permissions for could not be found. It may have been deleted."
 
+#. js-lingui-id: APJkak
+#: src/engine/core-modules/file-storage/interfaces/file-storage-exception.ts
+msgid "The file changed while it was being processed."
+msgstr "The file changed while it was being processed."
+
 #. js-lingui-id: bAGU1r
 #: src/engine/core-modules/file/utils/extract-file-info-or-throw.utils.ts
 msgid "The file extension doesn't match the file content. Please check that your file is not corrupted and has the correct extension."
@@ -10634,6 +10644,11 @@ msgstr "This file format is not supported."
 msgid "This file has already been uploaded."
 msgstr "This file has already been uploaded."
 
+#. js-lingui-id: VGePIR
+#: src/engine/core-modules/file/file-upload/services/file-upload-target.service.ts
+msgid "This file path is too long to upload."
+msgstr "This file path is too long to upload."
+
 #. js-lingui-id: 6ekAtL
 #: src/engine/core-modules/file/file-upload/services/file-upload.service.ts
 msgid "This file upload has already been finalized."
@@ -10834,6 +10849,11 @@ msgstr "This type of record cannot be merged."
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
 msgid "This universal identifier is already claimed by another registration."
 msgstr "This universal identifier is already claimed by another registration."
+
+#. js-lingui-id: xL5g9G
+#: src/engine/core-modules/file/file-upload/services/file-upload-completion.service.ts
+msgid "This upload expired before it was confirmed. Please upload the file again."
+msgstr "This upload expired before it was confirmed. Please upload the file again."
 
 #. js-lingui-id: GEN5Cv
 #: src/engine/core-modules/workspace-invitation/workspace-invitation.exception.ts

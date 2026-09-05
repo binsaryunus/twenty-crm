@@ -4213,6 +4213,11 @@ msgstr "Fișierul nu a fost găsit în arhiva clientului SDK."
 msgid "File not found."
 msgstr "Fișierul nu a fost găsit."
 
+#. js-lingui-id: eAFKw+
+#: src/engine/core-modules/file/file-upload/services/file-upload-completion.service.ts
+msgid "File storage did not confirm the processed file. Please retry."
+msgstr ""
+
 #. js-lingui-id: MtzD8b
 #: src/engine/core-modules/file/file-upload/services/file-upload.service.ts
 msgid "File storage took too long to respond. Please retry."
@@ -10085,6 +10090,11 @@ msgstr "Câmpul configurat pentru acest widget nu a putut fi găsit."
 msgid "The field you are trying to set permissions for could not be found. It may have been deleted."
 msgstr "Câmpul pentru care încercați să setați permisiuni nu a putut fi găsit. Este posibil să fi fost șters."
 
+#. js-lingui-id: APJkak
+#: src/engine/core-modules/file-storage/interfaces/file-storage-exception.ts
+msgid "The file changed while it was being processed."
+msgstr ""
+
 #. js-lingui-id: bAGU1r
 #: src/engine/core-modules/file/utils/extract-file-info-or-throw.utils.ts
 msgid "The file extension doesn't match the file content. Please check that your file is not corrupted and has the correct extension."
@@ -10639,6 +10649,11 @@ msgstr "Acest format de fișier nu este acceptat."
 msgid "This file has already been uploaded."
 msgstr "Acest fișier a fost deja încărcat."
 
+#. js-lingui-id: VGePIR
+#: src/engine/core-modules/file/file-upload/services/file-upload-target.service.ts
+msgid "This file path is too long to upload."
+msgstr ""
+
 #. js-lingui-id: 6ekAtL
 #: src/engine/core-modules/file/file-upload/services/file-upload.service.ts
 msgid "This file upload has already been finalized."
@@ -10839,6 +10854,11 @@ msgstr "Acest tip de înregistrare nu poate fi îmbinat."
 #: src/engine/core-modules/application/application-registration/application-registration.exception.ts
 msgid "This universal identifier is already claimed by another registration."
 msgstr "Acest identificator universal este deja rezervat de o altă înregistrare."
+
+#. js-lingui-id: xL5g9G
+#: src/engine/core-modules/file/file-upload/services/file-upload-completion.service.ts
+msgid "This upload expired before it was confirmed. Please upload the file again."
+msgstr ""
 
 #. js-lingui-id: GEN5Cv
 #: src/engine/core-modules/workspace-invitation/workspace-invitation.exception.ts
